@@ -29,7 +29,6 @@
 
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/mayukh-abhigyan-das)  
-- [Portfolio Website](#) *(add link here if available)*  
 - [Email](mayukhabhigyandas@gmail.com)  
 
 ---
