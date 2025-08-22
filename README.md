@@ -28,7 +28,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn]((https://www.linkedin.com/in/mayukh-abhigyan-das-bb1a11213))  
+- [LinkedIn](https://www.linkedin.com/in/mayukh-abhigyan-das-bb1a11213)
 - [Email](mayukhabhigyandas@gmail.com)  
 
 ---
