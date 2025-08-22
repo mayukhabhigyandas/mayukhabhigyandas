@@ -6,13 +6,34 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python 🐍 | JavaScript ⚡  
-- **Frontend:** React.js, HTML5, CSS3, Tailwind  
-- **Backend:** Node.js, FastAPI, Express.js  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Other Tools:** Git, Docker, Nomad, Consul, AWS  
+
+### 🌐 Web Development  
+- **Frontend:** React.js ⚛️ | AngularJS | Next.js | HTML5 | CSS3 | TailwindCSS | Bootstrap | Material UI | SASS/LESS  
+- **Backend:** Node.js | Express.js | FastAPI | Django | PHP (Laravel, CodeIgniter)  
+- **APIs:** REST | GraphQL (Apollo) | JSON | AJAX  
+
+### 💾 Databases  
+- **SQL:** MySQL | PostgreSQL  
+- **NoSQL:** MongoDB | Cassandra  
+
+### 🤖 AI / ML / Data Science  
+- Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow)  
+- Data visualization, clustering (PCA, K-means), Kalman Filters  
+- Applications in **quantitative finance** & **real-time analytics**  
+
+### ☁️ DevOps & Cloud  
+- Docker | AWS (EC2, S3, Lambda) | GCP | Azure  
+- Orchestration: Nomad | Consul | Traefik  
+- Git | GitHub Actions | CI/CD pipelines  
+
+### ✈️ Aerospace & Engineering Tools  
+- Compressible Flow (Isentropic, Shocks, MoC Nozzle Design)  
+- Aeroelastic Stability & Flutter Analysis (Theodorsen’s Function)  
+- Hypersonic Glide Vehicle Modeling (Adaptive Control)  
+- MATLAB | Jupyter Notebook  
 
 ---
+
 
 ## 📌 Featured Projects  
 - 🎨 [**Landing Page for Emplo AI**](https://github.com/mayukhabhigyandas/Emplo-AI-Landing-Page)) – Personal portfolio showcasing my work & skills   
