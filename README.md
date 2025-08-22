@@ -15,9 +15,7 @@
 ---
 
 ## 📌 Featured Projects  
-- 🎨 [**Portfolio Website**](https://github.com/mayukhabhigyandas/portfolio) – Personal portfolio showcasing my work & skills  
-- 🥁 [**Drum Kit**](https://github.com/mayukhabhigyandas/drum-kit) – A fun browser-based drum kit using JavaScript  
-- 🎮 [**Simon Game**](https://github.com/mayukhabhigyandas/simon-game) – Interactive memory game  
+- 🎨 [**Landing Page for Emplo AI**](https://github.com/mayukhabhigyandas/Emplo-AI-Landing-Page)) – Personal portfolio showcasing my work & skills   
 - ✍️ [**TextUtils (React)**](https://github.com/mayukhabhigyandas/TextUtils-React) – React app for text manipulation  
 - ✈️ [**Aerospace Assignments**](https://github.com/mayukhabhigyandas/Aerospace-Assignment) – Engineering and simulation projects  
 
