@@ -62,8 +62,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayukhabhigyandas&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhabhigyandas&layout=compact&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayukhabhigyandas&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayukhabhigyandas&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mayukhabhigyandas)](https://git.io/streak-stats)
+
 
 ---
 
